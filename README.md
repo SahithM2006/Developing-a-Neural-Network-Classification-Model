@@ -171,9 +171,9 @@ print(f'Predicted class for sample input: {predicted_class_label}')
 print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[12].item()])[0]}')
 
 ```
-### Name:
+### Name: SAHITH M
 
-### Register Number:
+### Register Number: 212224230236
 
 ```python
 class PeopleClassifier(nn.Module):
